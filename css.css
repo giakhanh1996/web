@@ -21,7 +21,11 @@ a{
 }
 .menu{
 	width:100%;
+<<<<<<< HEAD
 	height:32px;
+=======
+	height:35px;
+>>>>>>> nhanh2
 
 	background:#009;
 }
